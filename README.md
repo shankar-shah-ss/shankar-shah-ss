@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shankar-shah-ss
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning DSA in c 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (shankarshah880agmail.com imessage)
 
